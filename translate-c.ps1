@@ -1,0 +1,1 @@
+wasm2c ./build/add.wasm --output ./c/wasm.c

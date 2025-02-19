@@ -1,0 +1,1 @@
+wat2wasm ./src/add.wat --output=./build/add.wasm
